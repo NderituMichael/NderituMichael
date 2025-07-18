@@ -46,7 +46,7 @@ I’m passionate about turning complex data into meaningful insights. With hands
 
 ## 📫 Let’s Connect
 
-📧 wachiranmichael22@gmail.com  
+📧 michaelnderitu746@gmail.com  
 📱 +254798341746  
 🔗 *(You can add your LinkedIn or portfolio link here later)*
 
