@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Nderitu Michael Wachira
 
-<!--
-**NderituMichael/NderituMichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Science in Statistics**  
+📊 Data Analyst | Public Service Contributor | Risk Management Certified  
+📍 Based in Kenya
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I’m passionate about turning complex data into meaningful insights. With hands-on experience at the **Public Service Commission** and **Kenya Medical Practitioners and Dentists Council**, I’ve contributed to performance contracting, data systems, and digital transformation.
+
+---
+
+## 💼 Work Experience Highlights
+
+- **Intern – Strategy, Research & QA, KMPDC (2024–2025)**  
+  HRIS data, performance appraisal tools, Visitor Management System, government PC uploading
+
+- **Intern – Strategy & QA, PSC (2023–2024)**  
+  Strategic plans, quarterly reporting, M&E, linking PC indicators with departmental plans
+
+- **Data Entry – Freelance & Thuiya Enterprises**  
+  Bookkeeping, online bookings, Excel automation, SPSS/STATA/Excel data entry
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Statistical Tools**: R, SPSS, STATA, Excel  
+- **Data Collection**: KoboToolbox, Google Forms  
+- **Public Service Tools**: HRIS, GPCIS, PC Systems  
+- **Other**: Report Writing, Strategic Planning, Risk Management
+
+---
+
+## 📜 Certifications
+
+- 📘 **Risk Management**
+- 📊 Time Series in R & Exploratory Data Analysis
+- 🧠 IBM SkillsBuild: Working in a Digital World
+- 🔥 First Aid & Fire Safety
+- 💡 Fundamentals of Digital Marketing (Google)
+
+---
+
+## 📫 Let’s Connect
+
+📧 wachiranmichael22@gmail.com  
+📱 +254798341746  
+🔗 *(You can add your LinkedIn or portfolio link here later)*
+
